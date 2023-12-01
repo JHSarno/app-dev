@@ -13,6 +13,6 @@ My first repository
 
 ## Series
 ### 1. **The Walking Dea**
--*Genre:* Serial, Horror, Zombie Apocalypse, Action, Drama, Apocalyptic and post-apocalyptic fiction, Horror fiction, Suspense, Thriller, Mystery, Dramatic programming.
+- *Genre:* Serial, Horror, Zombie Apocalypse, Action, Drama, Apocalyptic and post-apocalyptic fiction, Horror fiction, Suspense, Thriller, Mystery, Dramatic programming.
 - *Description:* It tells the story of a small group of people living in a zombie apocalypse. Most of the story takes place in the near Atlanta, Georgia. The group looks for safe place which is not near the very large groups of deadly zombies.
 
